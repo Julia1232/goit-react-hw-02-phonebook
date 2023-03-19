@@ -50,7 +50,6 @@ export default class ContactForm extends Component {
           Add contact
         </button>
 
-
       </form>
     );
   }
